@@ -1,0 +1,4 @@
+/home/markus/studium/module/prog1vk/prog1_TIS_23_24_vk/build/CMakeFiles/astyle.dir
+/home/markus/studium/module/prog1vk/prog1_TIS_23_24_vk/build/CMakeFiles/versuchsklausur.dir
+/home/markus/studium/module/prog1vk/prog1_TIS_23_24_vk/build/CMakeFiles/edit_cache.dir
+/home/markus/studium/module/prog1vk/prog1_TIS_23_24_vk/build/CMakeFiles/rebuild_cache.dir
